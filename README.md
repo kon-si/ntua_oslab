@@ -1,9 +1,9 @@
 # ECE NTUA 3237 OS Lab
-C Linux kernel programming.
+Linux kernel programming in C.
 
 ## Lab 2
 ###  Lunix device driver
-- [Device driver](https://github.com/kon-si/ntua_oslab/tree/master/Lab2/lunix_driver) for the base station of wireless sensor mesh.
+- [Device driver](https://github.com/kon-si/ntua_oslab/tree/master/Lab2/lunix_driver) for the base station of a wireless sensor mesh.
 
 ## Lab 3
 ### Encrypted chat supporting virtualization
