@@ -15,5 +15,5 @@ C Linux kernel programming.
 
 ## Lab 3
 ### Encrypted chat supporting virtualization
-- 
-- (3-2.asm) Electronic alarm with messages on 7-segment display in Assembl
+- [Encrypted chat]{https://github.com/kon-si/ntua_oslab/edit/master} using the Linux cryptodev module.
+- VirtIO device driver for QEMU/KVM hypervisors.
