@@ -15,5 +15,5 @@ C Linux kernel programming.
 
 ## Lab 3
 ### Encrypted chat supporting virtualization
-- [Encrypted chat]{https://github.com/kon-si/ntua_oslab/edit/master} using the Linux cryptodev module.
-- VirtIO device driver for QEMU/KVM hypervisors.
+- [Encrypted chat](https://github.com/kon-si/ntua_oslab/tree/master/Lab3/encrypted_chat) using the Linux cryptodev module.
+- [VirtIO device driver](https://github.com/kon-si/ntua_oslab/tree/master/Lab3/virtio-cryptodev) for QEMU/KVM hypervisors.
